@@ -1,4 +1,4 @@
 #%%%
 print("hola")
 #%%%
-print("xomo")
+print("como que")
